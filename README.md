@@ -9,4 +9,4 @@ with the [QT8 Xplained Pro Water-Tolerant Touch-Surface](https://www.microchip.c
 ## Firmware Configurations
 The included project is configured for self-capacitance sensing of the QT8.  The scan rate is set to 200Hz, so that
 an updated touch status and position can be expected every 5ms.  In order to reconfigure, the touch parameters
-can be adjusted within MHC or directly in {{touch.h}}.
+can be adjusted within MHC or directly in touch.h.
